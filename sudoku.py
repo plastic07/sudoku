@@ -6,15 +6,15 @@ pygame.display.set_caption("Sudoku")
 
 
 title = pygame.image.load("C:\\Users\\Jamal\\Desktop\\s\\title.png")
-one = pygame.image.load("C:\\Users\\Jamal\\Desktop\\s\\1.png")
-doh = pygame.image.load("C:\\Users\\Jamal\\Desktop\\s\\2.png") 
-teen = pygame.image.load("C:\\Users\\Jamal\\Desktop\\s\\3.png")
-char = pygame.image.load("C:\\Users\\Jamal\\Desktop\\s\\4.png")
-five = pygame.image.load("C:\\Users\\Jamal\\Desktop\\s\\5.png")
-che = pygame.image.load("C:\\Users\\Jamal\\Desktop\\s\\6.png")
-svn = pygame.image.load("C:\\Users\\Jamal\\Desktop\\s\\7.png")
-ate = pygame.image.load("C:\\Users\\Jamal\\Desktop\\s\\8.png")
-noh = pygame.image.load("C:\\Users\\Jamal\\Desktop\\s\\9.png")
+one = pygame.image.load("C:\\Users\\Jamal\\Desktop\\s\\numberssss\\1.png")
+doh = pygame.image.load("C:\\Users\\Jamal\\Desktop\\s\\numberssss\\2.png") 
+teen = pygame.image.load("C:\\Users\\Jamal\\Desktop\\s\\numberssss\\3.png")
+char = pygame.image.load("C:\\Users\\Jamal\\Desktop\\s\\numberssss\\4.png")
+five = pygame.image.load("C:\\Users\\Jamal\\Desktop\\s\\numberssss\\5.png")
+che = pygame.image.load("C:\\Users\\Jamal\\Desktop\\s\\numberssss\\6.png")
+svn = pygame.image.load("C:\\Users\\Jamal\\Desktop\\s\\numberssss\\7.png")
+ate = pygame.image.load("C:\\Users\\Jamal\\Desktop\\s\\numberssss\\8.png")
+noh = pygame.image.load("C:\\Users\\Jamal\\Desktop\\s\\numberssss\\9.png")
  
 A = 40
 B = 158  
